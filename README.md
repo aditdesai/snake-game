@@ -6,6 +6,8 @@ Classic Nokia Snake Game that will take you back to your childhood
 Arrow Keys - Move Around
 </pre>
 
+![Alt text](image.png)
+
 <h2> Instructions </h1>
 <ol>
     <li> 
