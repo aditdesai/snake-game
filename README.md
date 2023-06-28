@@ -10,7 +10,11 @@ Arrow Keys - Move Around
 <ol>
     <li> 
         Clone this repository
-        <code>git clone https://github.com/aditdesai/dino-rush.git</code>
+        <code>git clone https://github.com/aditdesai/snake-game.git</code>
+    </li>
+    <li>
+        Change directory
+        <code>cd snake-game</code>
     </li>
     <li>
         Run main.py
